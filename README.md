@@ -1,2 +1,4 @@
 # UnityToolkit
-Unity3D相关工具类整理项目
+Unity3D相关工具类集合项目
+
+一个旨在鼓励Unity3D开发者
